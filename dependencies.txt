@@ -1,0 +1,10 @@
+pypdf
+langchain 
+chromadb # Vector storage
+pytest
+boto3
+sentence-transformers
+torch
+transformers
+huggingface-hub
+fastembed
